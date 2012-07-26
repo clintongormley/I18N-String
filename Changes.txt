@@ -1,2 +1,5 @@
+0.02    2012-07-25
+        Added method loc() to allow $str->loc(@args)
+
 0.01    2012-07-25
         First release
